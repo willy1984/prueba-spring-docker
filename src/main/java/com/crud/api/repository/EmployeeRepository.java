@@ -1,9 +1,9 @@
-package com.techprimers.jpa.springdatajpahibernateexample.repository;
+package com.crud.api.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.techprimers.jpa.springdatajpahibernateexample.model.EmployeeModel;
+import com.crud.api.model.EmployeeModel;
 
 @Repository
 public interface EmployeeRepository extends JpaRepository<EmployeeModel, Integer>{

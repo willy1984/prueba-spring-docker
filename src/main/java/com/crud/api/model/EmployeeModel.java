@@ -1,11 +1,11 @@
-package com.techprimers.jpa.springdatajpahibernateexample.model;
+package com.crud.api.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="employees")
+@Table(name = "employees")
 public class EmployeeModel {
 	
 	@Id
