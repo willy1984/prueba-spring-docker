@@ -1,4 +1,4 @@
-package com.sovanm.docker.dockerdemo;
+package com.crud.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
