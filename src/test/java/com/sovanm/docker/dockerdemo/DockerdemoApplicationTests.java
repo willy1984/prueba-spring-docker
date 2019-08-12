@@ -1,4 +1,4 @@
-package com.crud.api;
+package com.sovanm.docker.dockerdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class PruebaveintemilApplicationTests {
+public class DockerdemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
